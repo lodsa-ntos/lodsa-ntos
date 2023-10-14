@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lod Santos</h1>
+
 ![](https://miro.medium.com/v2/resize:fit:2000/1*ZXCnATiJsFR1jO4O-oDzgw.gif)
 <h3 align="center">Junior Developer with a passion for coding from the UK</h3>
 
