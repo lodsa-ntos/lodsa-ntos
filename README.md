@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lodex1993@hotmail.com**
 
-- 📄 Know about my experiences [here](www.linkedin.com/in/lodney-santos)
+- 📄 Know about my experiences [here](lodney-santos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
