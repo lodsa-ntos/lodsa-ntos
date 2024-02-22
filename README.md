@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lodney Santos</h1>
 
 ![](https://miro.medium.com/v2/resize:fit:2000/1*ZXCnATiJsFR1jO4O-oDzgw.gif)
-<h3 align="center">Technology enthusiast with a passion for design, Java development and Flutter. Transforming ideas into intuitive digital experiences. Graduated in Management Informatics. 🚀✨</h3>
+<h3 align="center">Technology enthusiast with a passion for design, Java development and Flutter. Transforming ideas into intuitive digital experiences. 
+  Graduated in Management Informatics. 🚀✨</h3>
 
 - 🌱 I’m currently learning **Java, kotlin and JS**
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **lodex1993@hotmail.com**
 
-- 📄 Know about my experiences [here](https://linkedin.com/in/lodney-santos/)
+- 📄 Know about my experiences [on my linkedin](https://linkedin.com/in/lodney-santos/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
