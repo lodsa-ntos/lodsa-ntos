@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/v2/resize:fit:2000/1*ZXCnATiJsFR1jO4O-oDzgw.gif)
 <h3 align="center">Technology enthusiast with a passion for design, Java development and Flutter. Transforming ideas into intuitive digital experiences. 
-  <br>Graduated in Management Informatics.</br> 🚀✨</h3>
+  <br><br>Graduated in Management Informatics. 🚀✨</br></br></h3>
 
 - 🌱 I’m currently learning **Java, kotlin and JS**
 
