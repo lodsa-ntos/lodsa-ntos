@@ -3,8 +3,6 @@
 ![](https://miro.medium.com/v2/resize:fit:2000/1*ZXCnATiJsFR1jO4O-oDzgw.gif)
 <h3 align="center">Technology enthusiast with a passion for design, Java development and Flutter. Transforming ideas into intuitive digital experiences. Graduated in Management Informatics. 🚀✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lodsa-ntos&label=Profile%20views&color=0e75b6&style=flat" alt="lodsa-ntos" /> </p>
-
 - 🌱 I’m currently learning **Java, kotlin and JS**
 
 - 💬 Ask me about **Java, Flutter (Dart) and UX/UI Designer**
