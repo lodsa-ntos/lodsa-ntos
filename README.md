@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lodex1993@hotmail.com**
 
-- 📄 Know about my experiences [[www.linkedin.com/in/lodney-santos-1689a41b9](www.linkedin.com/in/lodney-santos-1689a41b9)]([www.linkedin.com/in/lodney-santos-1689a41b9](www.linkedin.com/in/lodney-santos-1689a41b9))
+- 📄 Know about my experiences[www.linkedin.com/in/lodney-santos](www.linkedin.com/in/lodney-santos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
