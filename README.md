@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lodney Santos</h1>
 
-<p align="center">
-  ![](https://miro.medium.com/v2/resize:fit:2000/1*ZXCnATiJsFR1jO4O-oDzgw.gif)
-</p>
+![](https://miro.medium.com/v2/resize:fit:2000/1*ZXCnATiJsFR1jO4O-oDzgw.gif)
 
 <h3 align="center">Technology enthusiast passionate about design, front-end development, and UX/UI.</h3>
 
