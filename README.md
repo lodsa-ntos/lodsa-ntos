@@ -1,7 +1,9 @@
 <h1 align="center">Hey 👋, I'm Lodney Santos</h1>
 
 🚀 **Frontend Developer | UI/UX Enthusiast**  
-🎨 Passionate about **beautiful, scalable web applications**  
+
+🎨 Passionate about **beautiful, scalable web applications** 
+
 🌍 Transforming ideas into **engaging digital experiences**  
 
 <h3 align="left">Connect with me:</h3>
