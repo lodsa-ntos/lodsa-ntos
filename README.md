@@ -32,8 +32,12 @@
 
 ### 📫 Connect with me
 <p align="center">
+  <p align="center">
   <a href="https://linkedin.com/in/lodney-santos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dribbble.com/lod93"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="https://instagram.com/lodex.studio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://lodexstudio.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://dribbble.com/LodneySantos"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+</p>
 </p>
 
 ---
