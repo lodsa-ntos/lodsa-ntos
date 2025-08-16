@@ -41,8 +41,8 @@
 | Preview | Project | Tech Stack | Live Demo |
 |---------|---------|-----------|-----------|
 | <img src="https://lodexstudio.com/favicon.ico" width="24" height="24"/> | **[Lodex Portfolio](https://github.com/lodsa-ntos/lodex-portfolio)** | React, Vite, Tailwind, Framer Motion | [View](https://lodexstudio.com/) |
-| <img src="🚀" width="24" height="24"/> | **[Lodex Studio Blog](https://github.com/lodsa-ntos/lodexstudio-blog)** | React, Vite, Markdown | [View](https://lodexstudio.com/blog) |
-| <img src="https://lodexstudio.com/launchpeak" width="24" height="24"/> | **[Launchpeak Starter](https://github.com/lodsa-ntos/launchpeak-starter)** | JS, HTML, CSS | [View](https://lodexstudio.com/launchpeak) |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-5L6HOAWQIMhB5Z3cjGeBD-sPEdfzV2RVQ&s" width="24" height="24"/> | **[Lodex Studio Blog](https://github.com/lodsa-ntos/lodexstudio-blog)** | React, Vite, Markdown | [View](https://lodexstudio.com/blog) |
+| 🚀 | **[Launchpeak Starter](https://github.com/lodsa-ntos/launchpeak-starter)** | JS, HTML, CSS | [View](https://lodexstudio.com/launchpeak) |
 
 ---
 
