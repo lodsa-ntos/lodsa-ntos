@@ -1,6 +1,6 @@
 <!-- Banner e Apresentação -->
 <p align="center">
-  <img src="COLOCA_AQUI_O_LINK_DA_IMAGEM_ANIME" alt="Lodney Santos Anime Avatar" width="200" />
+  <img src="https://lodexstudio.com/Lodney-Santos-anime.png" alt="Lodney Santos Anime Avatar" width="200" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Lodney Santos</h1>
